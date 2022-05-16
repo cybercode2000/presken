@@ -1,0 +1,16 @@
+
+body, html {
+    background: #444;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background: lightskyblue;
+    width: 98.5%;
+    padding: 10px;
+    margin: 0;
+}
+.navbar ul {
+    text-decoration: none;
+}
